@@ -1,0 +1,6 @@
+C:\Users\MONSTER\source\repos\Egitim\ConstVeReadonly\bin\Debug\ConstVeReadonly.exe.config
+C:\Users\MONSTER\source\repos\Egitim\ConstVeReadonly\bin\Debug\ConstVeReadonly.exe
+C:\Users\MONSTER\source\repos\Egitim\ConstVeReadonly\bin\Debug\ConstVeReadonly.pdb
+C:\Users\MONSTER\source\repos\Egitim\ConstVeReadonly\obj\Debug\ConstVeReadonly.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Egitim\ConstVeReadonly\obj\Debug\ConstVeReadonly.exe
+C:\Users\MONSTER\source\repos\Egitim\ConstVeReadonly\obj\Debug\ConstVeReadonly.pdb

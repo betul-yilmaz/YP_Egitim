@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Egitim\DestructorVeGarbageCollector\bin\Debug\DestructorVeGarbageCollector.exe.config
+C:\Users\MONSTER\source\repos\Egitim\DestructorVeGarbageCollector\bin\Debug\DestructorVeGarbageCollector.exe
+C:\Users\MONSTER\source\repos\Egitim\DestructorVeGarbageCollector\bin\Debug\DestructorVeGarbageCollector.pdb
+C:\Users\MONSTER\source\repos\Egitim\DestructorVeGarbageCollector\obj\Debug\DestructorVeGarbageCollector.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\Egitim\DestructorVeGarbageCollector\obj\Debug\DestructorVeGarbageCollector.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Egitim\DestructorVeGarbageCollector\obj\Debug\DestructorVeGarbageCollector.exe
+C:\Users\MONSTER\source\repos\Egitim\DestructorVeGarbageCollector\obj\Debug\DestructorVeGarbageCollector.pdb

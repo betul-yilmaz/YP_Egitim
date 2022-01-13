@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Egitim\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.exe.config
+C:\Users\MONSTER\source\repos\Egitim\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.exe
+C:\Users\MONSTER\source\repos\Egitim\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.pdb
+C:\Users\MONSTER\source\repos\Egitim\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\Egitim\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Egitim\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.exe
+C:\Users\MONSTER\source\repos\Egitim\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.pdb

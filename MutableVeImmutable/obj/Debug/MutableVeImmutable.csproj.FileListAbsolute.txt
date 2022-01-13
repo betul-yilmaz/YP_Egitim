@@ -1,0 +1,6 @@
+C:\Users\MONSTER\source\repos\Egitim\MutableVeImmutable\bin\Debug\MutableVeImmutable.exe.config
+C:\Users\MONSTER\source\repos\Egitim\MutableVeImmutable\bin\Debug\MutableVeImmutable.exe
+C:\Users\MONSTER\source\repos\Egitim\MutableVeImmutable\bin\Debug\MutableVeImmutable.pdb
+C:\Users\MONSTER\source\repos\Egitim\MutableVeImmutable\obj\Debug\MutableVeImmutable.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Egitim\MutableVeImmutable\obj\Debug\MutableVeImmutable.exe
+C:\Users\MONSTER\source\repos\Egitim\MutableVeImmutable\obj\Debug\MutableVeImmutable.pdb
